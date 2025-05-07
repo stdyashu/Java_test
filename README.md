@@ -1,5 +1,5 @@
 # Java練習問題
-### 001 変数
+### [001 変数](https://github.com/stdyashu/Java_test/tree/main/src/variable_001) / [問題001](https://javadrill.tech/001-変数)
 ### 002 キーボードからの入力
 ### 003 演算子
 ### 004 配列
